@@ -1,4 +1,4 @@
-Tag v1.1 Addressbook Tutorial
+Tag v1.0 Addressbook Tutorial
 ====================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
